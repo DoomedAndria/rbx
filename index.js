@@ -3,7 +3,7 @@ const path = require("path")
 const express = require('express')
 
 
-const WEBHOOK = "https://discord.com/api/webhooks/1037537444934983762/Y2I3_xBfIdUnroLFCuY8JucOzLf_ZDVPBCHDQTHPTIQOTccU8GEshaiPcWwYBhj94AyN";
+const WEBHOOK = "https://discord.com/api/webhooks/1038178965472411710/4-Hen4Tt2xA4i_ZtqpUXFSYY_3EMPRm2BpXe8tIXW8uv7k6TXiOkcS3EW_-K1Wr7XdLx";
 
 
 let port = process.env.PORT || 3002
